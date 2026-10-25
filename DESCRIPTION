@@ -1,0 +1,17 @@
+Package: perceptronGraficar
+Title: Grafica la Frontera de Decision de un Perceptron Simple
+Version: 0.0.0.9000
+Authors@R: 
+    person("Marcela", "Paucar", , "estefany.marce@gmail.com", role = c("aut", "cre"))
+Description: Grafica la frontera de decision de un perceptron simple de dos
+    variables sobre los datos, marcando las clasificaciones correctas e
+    incorrectas.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.1
+Imports: 
+    ggplot2
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
