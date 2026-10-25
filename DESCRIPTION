@@ -9,9 +9,10 @@ Description: Grafica la frontera de decision de un perceptron simple de dos
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 8.1.1
 Imports: 
-    ggplot2
+    ggplot2,
+    rlang
 Suggests: 
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
+Config/roxygen2/version: 8.1.1
